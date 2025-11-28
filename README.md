@@ -36,8 +36,7 @@ A clean and responsive one-page bakery website built with **HTML**, **CSS**, and
 ## 📁 Project Structure
 
 ```
-
-project-folder/
+Cake-Village-by-Umme/
 │
 ├── index.html
 ├── style.css
@@ -56,9 +55,9 @@ project-folder/
 
 ## 👨‍💻 Developed By
 
-**Rudra Kaiser**  
-[🔗 LinkedIn](https://www.linkedin.com/in/rudrakaiser/)   
-[🔗 GitHub](https://github.com/rudrakaiser)
+### **Rudra Kaiser**  
+🔗 [LinkedIn](https://www.linkedin.com/in/rudrakaiser/)  
+🔗 [GitHub](https://github.com/rudrakaiser)
 
 ---
 
