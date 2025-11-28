@@ -36,3 +36,9 @@
 .nav-link:hover {
     color: #d63384 !important;
 }
+
+.links {
+    text-decoration: none;
+    color: inherit;
+    font-weight: 900;
+}
